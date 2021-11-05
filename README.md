@@ -4,3 +4,8 @@ testing out bootstrap features
 
 First project using  **Bootstrap**. 
 Developing a whiskey drop landing page
+
+
+References:
+
+Images were respectively obtained from shutterstock.
